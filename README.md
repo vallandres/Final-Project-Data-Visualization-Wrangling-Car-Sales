@@ -62,3 +62,9 @@ Dengan transmisi otomatis mendominasi pasar sebesar 52,69%, perusahaan dapat men
 
 
 Dengan rekomendasi yang kami berikan, kami yakin dapat meningkatkan penjualan sebesar 30% pada tahun 2024. Hal ini meliputi strategi pemasaran yang lebih terarah, peningkatan efisiensi biaya produksi, fokus pada preferensi pelanggan terkait warna dan jenis bodi mobil, serta penyesuaian strategi dengan demografi gender dan jenis transmisi di setiap wilayah. Dengan pendekatan ini, kami optimis dapat memberikan manfaat bagi seluruh pihak yang terlibat dalam perusahaan.
+
+Information
+Medium: https://medium.com/@hanifnaufalfaiz/mengidentifikasi-tren-pasar-mobil-2023-pada-dataset-car-sales-6b7a78e8225b
+LinkedIn: https://www.linkedin.com/in/haniffaiz/
+Tableau: https://public.tableau.com/app/profile/hanif.naufal.faiz/viz/FinalProjectVisualizationCarSales/Dashboard1
+Youtube: https://youtu.be/29yk-QFNk30
